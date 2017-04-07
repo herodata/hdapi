@@ -4,7 +4,7 @@
 
 <p>Example <br>
 <div class="highlight highlight-source-js-jsx">
->heapi.exe GC
+>hdapi.exe GC
 </div>
 </p>
 <p>
