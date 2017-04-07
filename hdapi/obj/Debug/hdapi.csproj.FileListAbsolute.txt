@@ -1,0 +1,6 @@
+D:\Projects\hdapi\hdapi\bin\Debug\hdapi.exe.config
+D:\Projects\hdapi\hdapi\bin\Debug\hdapi.exe
+D:\Projects\hdapi\hdapi\bin\Debug\hdapi.pdb
+D:\Projects\hdapi\hdapi\obj\Debug\hdapi.exe
+D:\Projects\hdapi\hdapi\obj\Debug\hdapi.pdb
+D:\Projects\hdapi\hdapi\obj\Debug\hdapi.csprojResolveAssemblyReference.cache
