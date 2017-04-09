@@ -5,8 +5,8 @@
 ### Example
 
 ```sh
-$ hdapi.exe GC #get Gold futures data & save into GC.csv
-$ hdapi.exe NQ #get E-mini NASDAQ 100 Futures & save as NQ.csv
+$ hdapi.exe -s GC #get Gold futures data & save into GC.csv
+$ hdapi.exe --symbol NQ #get E-mini NASDAQ 100 Futures & save as NQ.csv
 ```
 
 <p>
